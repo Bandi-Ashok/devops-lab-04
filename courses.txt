@@ -2,3 +2,4 @@ devops master course
 aws mastercouse
 gen AI course
 aws clou platform
+hi hello welcome to java
